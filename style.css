@@ -1,0 +1,46 @@
+body {
+    padding: 50px;
+}
+
+.f-sec {
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+
+.h-div {
+    border-left: solid 4px #FF5959;
+}
+
+.first-heading {
+    margin-left: 10px;
+    font-size: 60px;
+    font-weight: 700;
+
+    /* border-left: 4px;
+    border-style: solid;
+    border-color: #FF5959; */
+
+}
+
+.oc {
+    color: #FFAD5A;
+}
+
+.btn1 {
+    background-color: #FF5959;
+    border: none;
+    /* padding: 12px;
+    padding-left: 30px;
+    padding-right: 30px; */
+
+    padding: 12px 30px;
+    border-radius: 5px;
+}
+
+.f-img {
+    width: 426px;
+    height: 600px;
+    margin-top: -50px;
+    /* margin-left: 250px; */
+}
